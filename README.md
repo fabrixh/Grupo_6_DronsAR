@@ -6,6 +6,8 @@ Grupo N°6 de trabajo de Digital House
 ## Integrantes
 
  - David Ramirez
- - Noel Oliva
- - 
- -
+ - Fabricio Herrera
+ - Florencia Karen Gonzalez
+ - Franco Scaglioni
+ - Leonardo David Garcia
+ - Maria Noel Oliva
