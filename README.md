@@ -6,6 +6,6 @@ Grupo N°6 de trabajo de Digital House
 ## Integrantes
 
  - David Ramirez
- - 
+ - Noel Oliva
  - 
  -
