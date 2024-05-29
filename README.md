@@ -7,5 +7,5 @@ Grupo N°6 de trabajo de Digital House
 
  - David Ramirez
  - Noel Oliva
- - 
+ - Fabricio Herrera
  -
