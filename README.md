@@ -9,5 +9,5 @@ Grupo N°6 de trabajo de Digital House
  - Noel Oliva
  - Florencia Gonzalez
  - Fabricio Herrera
- - Franco Scaglione
+ - Franco Scaglioni
  - Leonardo David García 
