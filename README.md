@@ -30,7 +30,8 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 **DronsAR** - Drones de las alturas riojanas
 
 ### Logo: 
-Sí - Trabajando en el diseño.
+![DronsAR-logo](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/84ebbf64-2d7f-4307-b4c2-c923cd07bf54)
+
 
 ### Lista de Productos:
 
