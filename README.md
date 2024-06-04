@@ -52,6 +52,9 @@ Sí - Trabajando en el diseño.
 
 - [dji.com](https://www.dji.com)
 - [dronenerds.com](https://www.dronenerds.com)
+- [bidcom.com.ar](https://www.bidcom.com.ar/drones)
+- [armagedron.com.ar](https://www.armagedron.com.ar/drones/)
+- [runco.com.ar](https://www.runco.com.ar/drone-uav/drones/) 
 
 ## Definición de Audiencia Objetivo:
 
