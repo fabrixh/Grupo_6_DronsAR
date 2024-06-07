@@ -59,9 +59,9 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 
 ## Definición de Audiencia Objetivo:
 
-- Fanáticos de la tecnología
+- Fanáticos de las tecnologías
 - Aficionados a la fotografía y videografía
 - Profesionales de diversos sectores
 - Deportistas y aventureros
 - Emprendedores y empresas de servicios de drones
-- Profesores de materias STEM
+- Profesores de curriculares de las Ciencias Exactas "STEM".
