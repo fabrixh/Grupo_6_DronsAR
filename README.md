@@ -65,3 +65,8 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 - Deportistas y aventureros
 - Emprendedores y empresas de servicios de drones
 - Profesores de curriculares de las Ciencias Exactas "STEM".
+
+
+## Wireframe del proyecto 
+
+(Desarrollado. A adjuntar próximamente)
