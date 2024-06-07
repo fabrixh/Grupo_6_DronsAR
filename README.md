@@ -69,4 +69,4 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 
 ## Wireframe del proyecto 
 
-(Desarrollado. A adjuntar próximamente)
+(Desarrollado. A adjuntar próximamente).
