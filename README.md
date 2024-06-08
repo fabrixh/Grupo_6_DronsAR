@@ -68,5 +68,6 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 
 
 ## Wireframe del proyecto 
+![wireframeweb](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/4997573e-fe09-4a63-866c-4162eb925cd2)
 
 ![wireframe](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/9660a105-95a2-4749-8a97-501200633fc9)
