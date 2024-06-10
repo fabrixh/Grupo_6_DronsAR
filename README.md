@@ -3,13 +3,12 @@
 Grupo N°6 de trabajo de Digital House
 
 ## Integrantes
-
-- David Ramirez
-- Noel Oliva
-- Florencia Gonzalez
-- Fabricio Herrera
-- Franco Scaglioni
-- Leonardo David García 
+- Florencia Gonzalez: Tengo 27 años, me apodan "flor", soy profesora de Física, Repostera, mi pasatiempo favorito es: escuchar música, salir a tomar mate al aire libre, hacer ejercicios.
+- Franco Scaglioni : 27 años licenciado en diseño y producción multimedial, me dedico al diseño grafico, trabaja en forma freelance. Esta aprendiendo HTML 5, CSS, Maneja la Suite de Adobe CC https://www.linkedin.com/in/francoscaglionilr/
+- Leonardo Garcia : 30 años licenciado en sistema, trabaja en relacion dependencia en la secretaria de ambiente, le gusta programar FRONTEND. https://www.linkedin.com/in/david-leo-garc%C3%ADa993/
+- Fabricio Herrera: 34 años, ingeniero en sistema, capacitándose en FullStack, aprendiendo ingles. Experiencia en base de dato MySQL. https://www.linkedin.com/in/fabrixh/
+- David Ramirez : 23 años Estudiante de tecnicatura en programación . Conocimiento en React. Se dedica al BMX Racing. https://www.linkedin.com/in/david-ramirez-031015253/
+- Noel Oliva: 38 años, Bioingeniera, trabajo en el área de procesos y calidad de un hospital. Poseo un emprendimiento en impresión 3D. Conocimientos básicos en PHYTON. www.linkedin.com/in/maria-noel-oliva
 
 ## Enlace al Tablero de Proyectos en Trello
 
