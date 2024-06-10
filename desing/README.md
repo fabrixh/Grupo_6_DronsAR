@@ -13,6 +13,8 @@
 #16DCF2 - CYAN
 
 #0D0D0D - BLACK
+
+https://trello.com/1/cards/66651830d2e7533220bc3dcb/attachments/6665183dfeb35f36cef138a9/download/AdobeColor-VW_ID.4_Launch_2020_-_2000_Drones_Show.jpeg
   
 ### Tipografia
 
