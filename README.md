@@ -54,7 +54,53 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 - [dronenerds.com](https://www.dronenerds.com)
 - [bidcom.com.ar](https://www.bidcom.com.ar/drones)
 - [armagedron.com.ar](https://www.armagedron.com.ar/drones/)
-- [runco.com.ar](https://www.runco.com.ar/drone-uav/drones/) 
+- [runco.com.ar](https://www.runco.com.ar/drone-uav/drones/)
+
+## Justificacion de eleccion de los sitios Web
+Para encontrar sitios similares a los mencionados, he realizado una búsqueda en base a los siguientes criterios:
+
+1. **Productos o servicios que ofrecen**: Sitios que venden drones, equipos electrónicos y tecnología.
+2. **Clientes a los que apuntan**: Consumidores interesados en tecnología, profesionales de la fotografía, videografía y entusiastas de los drones.
+3. **Estética que presentan**: Sitios web modernos, bien diseñados, con imágenes de alta calidad y navegación intuitiva.
+4. **Funcionalidades implementadas**: Comercio electrónico, descripciones detalladas de productos, comparaciones de productos, reseñas de usuarios y soporte al cliente.
+
+### Sitios seleccionados:
+
+1. **DJI.com**
+   - **Por qué fue elegido**: DJI es el líder mundial en drones y estabilizadores de cámara. Ofrece una amplia gama de productos de alta calidad para consumidores y profesionales.
+   - **Productos/Servicios**: Drones, cámaras, estabilizadores, accesorios.
+   - **Clientes**: Entusiastas de la tecnología, profesionales de la fotografía y videografía.
+   - **Estética**: Diseño moderno, imágenes de alta calidad, navegación intuitiva.
+   - **Funcionalidades**: Comparación de productos, reseñas, soporte al cliente, tienda en línea.
+
+2. **Dronenerds.com**
+   - **Por qué fue elegido**: Especializados en drones y accesorios, ofrecen una amplia gama de productos y servicios de soporte.
+   - **Productos/Servicios**: Drones, accesorios, servicios de reparación y soporte.
+   - **Clientes**: Entusiastas de los drones, profesionales.
+   - **Estética**: Diseño limpio y profesional, fácil navegación.
+   - **Funcionalidades**: Reseñas de productos, soporte técnico, tienda en línea.
+
+3. **Bidcom.com.ar**
+   - **Por qué fue elegido**: Sitio argentino que ofrece una variedad de productos electrónicos y tecnológicos.
+   - **Productos/Servicios**: Electrónica, tecnología, electrodomésticos.
+   - **Clientes**: Consumidores en general interesados en tecnología y electrónica.
+   - **Estética**: Diseño atractivo, imágenes de alta calidad.
+   - **Funcionalidades**: Comparaciones de productos, reseñas, opciones de pago y envío.
+
+4. **Armagedron.com.ar**
+   - **Por qué fue elegido**: Especializados en drones, ofrece una variedad de opciones y servicios relacionados.
+   - **Productos/Servicios**: Drones, accesorios.
+   - **Clientes**: Entusiastas de los drones y profesionales.
+   - **Estética**: Diseño moderno y orientado al producto.
+   - **Funcionalidades**: Soporte técnico, tienda en línea, reseñas de productos.
+
+5. **Runco.com.ar**
+   - **Por qué fue elegido**: Proveedor argentino de tecnología y electrónica con una amplia gama de productos.
+   - **Productos/Servicios**: Electrónica, tecnología, electrodomésticos.
+   - **Clientes**: Consumidores en general interesados en tecnología y electrónica.
+   - **Estética**: Diseño profesional, imágenes de alta calidad.
+   - **Funcionalidades**: Comparaciones de productos, reseñas, opciones de pago y envío.
+
 
 ## Definición de Audiencia Objetivo:
 
