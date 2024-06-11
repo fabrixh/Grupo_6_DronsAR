@@ -17,9 +17,11 @@ Grupo N°6 de trabajo de Digital House
 - **Noel Oliva**: 38 años, bioingeniera, trabaja en el Hospital Central de San Luis "Ramón Carrillo" en el área de procesos y calidad. Posee un emprendimiento en impresión 3D y conocimientos básicos en Python. [LinkedIn](www.linkedin.com/in/maria-noel-oliva)
 
 
-## Enlace al Tablero de Proyectos en Trello
+## Tablero de Proyectos en Trello
 
-[Enlace al Tablero de Proyectos en Trello](https://trello.com/invite/b/C13pJ5cq/ATTI2f6571571a9eef53d90fa6d4b184c1a06D8A0930/grupo-6)
+Nuestro equipo utiliza Trello para organizar y gestionar los proyectos de manera eficiente. En el tablero, puedes encontrar todas las tareas, plazos y asignaciones para cada miembro del equipo.
+
+[Accede al Tablero de Proyectos en Trello](https://trello.com/invite/b/C13pJ5cq/ATTI2f6571571a9eef53d90fa6d4b184c1a06D8A0930/grupo-6)
 
 ## Definición de Tema para E-commerce
 
