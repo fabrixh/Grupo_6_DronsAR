@@ -57,7 +57,7 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 - [runco.com.ar](https://www.runco.com.ar/drone-uav/drones/)
 
 ## Justificacion de eleccion de los sitios Web
-Para encontrar sitios similares a los mencionados, he realizado una búsqueda en base a los siguientes criterios:
+Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda en base a los siguientes criterios:
 
 1. **Productos o servicios que ofrecen**: Sitios que venden drones, equipos electrónicos y tecnología.
 2. **Clientes a los que apuntan**: Consumidores interesados en tecnología, profesionales de la fotografía, videografía y entusiastas de los drones.
