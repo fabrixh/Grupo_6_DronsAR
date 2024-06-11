@@ -17,7 +17,7 @@ Grupo N°6 de trabajo de Digital House
 - **Noel Oliva**: 38 años, bioingeniera, trabaja en el Hospital Central de San Luis "Ramón Carrillo" en el área de procesos y calidad. Posee conocimientos básicos en Python y dirige BONESTRESD, un emprendimiento en bioingeniería que mejora la calidad de vida y salud mediante impresión 3D. [LinkedIn](www.linkedin.com/in/maria-noel-oliva)
 
 
-## Tablero de Proyectos en Trello
+## Tablero del Proyecto en Trello
 
 Nuestro equipo utiliza Trello para organizar y gestionar el proyecto de manera eficiente. En el tablero, puedes encontrar todas las tareas, plazos y asignaciones para cada miembro del equipo.
 
