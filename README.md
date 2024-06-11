@@ -19,18 +19,18 @@ Grupo N°6 de trabajo de Digital House
 
 ## Tablero de Proyectos en Trello
 
-Nuestro equipo utiliza Trello para organizar y gestionar los proyectos de manera eficiente. En el tablero, puedes encontrar todas las tareas, plazos y asignaciones para cada miembro del equipo.
+Nuestro equipo utiliza Trello para organizar y gestionar el proyecto de manera eficiente. En el tablero, puedes encontrar todas las tareas, plazos y asignaciones para cada miembro del equipo.
 
 [Accede al Tablero de Proyectos en Trello](https://trello.com/invite/b/C13pJ5cq/ATTI2f6571571a9eef53d90fa6d4b184c1a06D8A0930/grupo-6)
 
-## Definición de Tema para E-commerce
+## Alternativas de Temas para E-commerce
 
 - Opción 1: E-commerce de servicios financieros
 - Opción 2: E-commerce de indumentaria deportiva
 - Opción 3: E-commerce de productos electrónicos
 - Opción 4: E-commerce de drones
 
-## Tema Elegido para el Market Place
+## Tema Elegido para el Proyecto
 
 Por decisión mayoritaria del grupo, se eligió la temática de drones.
 
