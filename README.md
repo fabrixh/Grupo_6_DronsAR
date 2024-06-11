@@ -3,12 +3,19 @@
 Grupo N°6 de trabajo de Digital House
 
 ## Integrantes
-- Franco Scaglioni : 27 años licenciado en diseño y producción multimedial, me dedico al diseño grafico, trabaja en forma freelance. Esta aprendiendo HTML 5, CSS, Maneja la Suite de Adobe CC [Enlance a Linkedin](https://www.linkedin.com/in/francoscaglionilr/)
-- Florencia Gonzalez: Tengo 27 años, me apodan "flor", soy profesora de Física, Repostera, mi pasatiempo favorito es: escuchar música, salir a tomar mate al aire libre, hacer ejercicios.
-- Leonardo Garcia : 30 años licenciado en sistema, trabaja en relacion dependencia en la secretaria de ambiente, le gusta programar FRONTEND. https://www.linkedin.com/in/david-leo-garc%C3%ADa993/
-- Fabricio Herrera: 34 años, ingeniero en sistema, capacitándose en FullStack, aprendiendo ingles. Experiencia en base de dato MySQL. https://www.linkedin.com/in/fabrixh/
-- David Ramirez : 23 años Estudiante de tecnicatura en programación . Conocimiento en React. Se dedica al BMX Racing. https://www.linkedin.com/in/david-ramirez-031015253/
-- Noel Oliva: 38 años, Bioingeniera, trabajo en el área de procesos y calidad de un hospital. Poseo un emprendimiento en impresión 3D. Conocimientos básicos en PHYTON. www.linkedin.com/in/maria-noel-oliva
+
+- **Franco Scaglioni**: 27 años, licenciado en Diseño y Producción Multimedial. Se dedica al diseño gráfico y trabaja como freelance. Está aprendiendo HTML5 y CSS, y maneja la Suite de Adobe CC. [LinkedIn](https://www.linkedin.com/in/francoscaglionilr/)
+  
+- **Florencia Gonzalez**: 27 años, conocida como "Flor", es profesora de Física y repostera. Disfruta escuchar música, salir a tomar mate al aire libre y hacer ejercicio en su tiempo libre.
+  
+- **Leonardo Garcia**: 30 años, licenciado en Sistemas. Trabaja en relación de dependencia en la Secretaría de Ambiente y se especializa en programación Frontend. [LinkedIn](https://www.linkedin.com/in/david-leo-garc%C3%ADa993/)
+  
+- **Fabricio Herrera**: 34 años, ingeniero en Sistemas, se está capacitando en FullStack e inglés. Tiene experiencia en Redes y ciencia de datos. Le encanta viajar y ha tenido experiencias en diversos paises de Europa como Italia, Noruega, Dinamarca, así como en otros, lo que le ha ayudado a mejorar su visión personal y profesional. Además, le apasionan los datos y su análisis. [LinkedIn](https://www.linkedin.com/in/fabrixh/)
+  
+- **David Ramirez**: 23 años, estudiante de tecnicatura en programación. Tiene conocimientos en React y se dedica al BMX Racing en su tiempo libre. [LinkedIn](https://www.linkedin.com/in/david-ramirez-031015253/)
+  
+- **Noel Oliva**: 38 años, bioingeniera, trabaja en el Hospital Central de San Luis "Ramón Carrillo" en el área de procesos y calidad. Posee un emprendimiento en impresión 3D y conocimientos básicos en Python. [LinkedIn](www.linkedin.com/in/maria-noel-oliva)
+
 
 ## Enlace al Tablero de Proyectos en Trello
 
