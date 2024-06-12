@@ -31,7 +31,7 @@ Grupo N°6 de trabajo de Digital House
 
 Nuestro equipo utiliza Trello para organizar y gestionar el proyecto de manera eficiente. En el tablero, puedes encontrar todas las tareas, plazos y asignaciones para cada miembro del equipo.
 
-[Accede al Tablero de Proyectos en Trello](https://trello.com/invite/b/C13pJ5cq/ATTI2f6571571a9eef53d90fa6d4b184c1a06D8A0930/grupo-6)
+[Accede al Tablero del Proyecto en Trello](https://trello.com/invite/b/C13pJ5cq/ATTI2f6571571a9eef53d90fa6d4b184c1a06D8A0930/grupo-6)
 
 
 ## 🚀 Tema Elegido para el Proyecto
@@ -132,7 +132,7 @@ Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda
 ## 🖋️ Wireframe del Proyecto 
 
 Utilizando la herramienta Figma, creamos una versión adaptada para dispositivos móviles y de escritorio de nuestro boceto del proyecto.
-A continuación, encontrarás las imágenes optimizadas para dispositivos de escritorio y móviles. En la carpeta de wireframes, están disponibles todas las versiones adaptadas para diferentes dispositivos o puedes acceder a ellas a través de este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/wireframes)
+A continuación, encontrarás las imágenes optimizadas para dispositivos de escritorio y móviles. En la carpeta de ```wireframes```, están disponibles todas las versiones adaptadas para diferentes dispositivos o puedes acceder a ellas a través de este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/wireframes)
 
 ![wireframeweb](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/4997573e-fe09-4a63-866c-4162eb925cd2)
 
@@ -140,4 +140,4 @@ A continuación, encontrarás las imágenes optimizadas para dispositivos de esc
 
 ## 🎨 Diseño
 
-En el siguiente apartado, incluimos el logo, la paleta de colores y la tipografía de nuestro proyecto. Encuentra más detalles en la carpeta 'Design' o en este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/desing)
+En el siguiente apartado, incluimos el logo, la paleta de colores y la tipografía de nuestro proyecto. Encuentra más detalles en la carpeta ```Design``` o en este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/desing)
