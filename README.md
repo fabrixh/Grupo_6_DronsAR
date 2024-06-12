@@ -121,12 +121,11 @@ Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda
 
 ## Definición de Audiencia Objetivo
 
-- Fanáticos de las tecnologías
-- Aficionados a la fotografía y videografía
-- Profesionales de diversos sectores
-- Deportistas y aventureros
-- Emprendedores y empresas de servicios de drones
-- Profesores de curriculares de las Ciencias Exactas "STEM".
+- Profesionales en áreas de negocios, salud y otros sectores diversos.
+- Entusiastas de la tecnología en general.
+- Aficionados a la fotografía y videografía.
+- Deportistas y aventureros.
+- Profesores especializados en Ciencias Exactas dentro del ámbito STEM.
 
 
 ## Wireframe del Proyecto 
