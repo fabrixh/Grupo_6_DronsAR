@@ -4,7 +4,7 @@ Grupo N°6 de trabajo de Digital House
 
 ## Tabla de Contenidos
 
-1. [Integrantes](Integrantes)
+1. [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes))
 2. [ Tablero del Proyecto en Trello](Tablero-del-Proyecto-en-Trello)
 3. [Tema Elegido para el Proyecto](Tema-Elegido-para-el-Proyecto)
 4. [Justificacion de eleccion de los sitios Web](Justificacion-de-eleccion-de-los-sitios-Web)
