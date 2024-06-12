@@ -1,3 +1,140 @@
-h1{
-    color: aqua;
+/* Estilo general del header */
+header {
+    background-color: #fff;
+    padding: 15px;
+  }
+  
+  /* Contenedor principal del header */
+  .contenedor-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Logo */
+  .logo {
+    flex-shrink: 0; 
+  }
+  
+  .logo img {
+    max-width: 150px; 
+  }
+  
+  /* Menú principal */
+  .menu-principal {
+    flex-grow: 1; 
+    text-align: center;
+  }
+  
+  .menu-principal ul {
+    list-style: none; 
+    margin: 0; 
+    padding: 0; 
+  }
+  
+  .menu-principal li {
+    display: inline-block; 
+    margin: 0 15px;
+  }
+  
+  .menu-principal a {
+    text-decoration: none; 
+    color: #000; 
+    font-weight: bold; 
+  }
+  
+  /* Barra de búsqueda */
+  .search-bar {
+    flex-shrink: 0;
+    margin-right: 20px; 
+  }
+  
+  .search-bar input[type="search"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-bar button {
+    padding: 5px 10px;
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Iconos de usuario y carrito */
+  .iconos-usuario-carrito {
+    display: flex;
+  }
+  
+  .iconos-usuario-carrito i {
+    margin-right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  .fa-user{
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+  }
+
+  .fa-shopping-cart{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  /* Menú hamburguesa (escondido por defecto) */
+  .menu-hamburguesa {
+    display: none;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 3px;
 }
+
+.menu-hamburguesa i {
+    font-size: 24px;
+    color: #000000;
+}
+  
+  @media (max-width: 798px) {
+    .menu-hamburguesa {
+        display: block;
+    }
+
+    .search-bar, nav{
+        display: none;
+    }
+
+    .contenedor-header, .iconos-usuario-carrito .menu-hamburguesa{
+        justify-content: none;
+        flex-direction: row;
+    }
+
+    .iconos-usuario-carrito{
+        float: left;
+    }
+  
+    .logo {
+      margin-bottom: 15px;
+      margin: auto;
+    }
+  
+    
+  }
+
+@media (max-width: 361px) {
+    
+    .contenedor-header, .menu-hamburguesa, .iconos-usuario-carrito{
+        flex-direction: row;
+    }
+
+  }
+  
