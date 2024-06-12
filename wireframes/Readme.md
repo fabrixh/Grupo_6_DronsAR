@@ -1,5 +1,5 @@
 ## Diseño Responsivo: Wireframes para Móviles, Web y Tablet
- Descubre nuestras versiones adaptadas para dispositivos móviles, web y tablet en el wireframe del proyecto. La imagen incluye en cada version:
+ Descubre nuestras versiones adaptadas para dispositivos móviles, web y tablet en el wireframe del proyecto. La imagen incluye, en cada versión, de izquierda a derecha:
 
 * Home
 * Detalle de producto
