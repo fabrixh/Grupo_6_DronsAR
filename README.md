@@ -4,12 +4,12 @@ Grupo N°6 de trabajo de Digital House
 
 ## Tabla de Contenidos
 
-1. [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes))
-2. [ Tablero del Proyecto en Trello](Tablero-del-Proyecto-en-Trello)
-3. [Tema Elegido para el Proyecto](Tema-Elegido-para-el-Proyecto)
-4. [Justificacion de eleccion de los sitios Web](Justificacion-de-eleccion-de-los-sitios-Web)
-5. [Definición de Audiencia Objetivo](Definición-de-Audiencia-Objetivo)
-6. [Wireframe del proyecto](Wireframe-del-proyecto)
+1. [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes)
+2. [Tablero del Proyecto en Trello](https://github.com/chavow5/Grupo_6_DronsAR/#tablero-del-proyecto-en-trello)
+3. [Tema Elegido para el Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#tema-elegido-para-el-proyecto)
+4. [Justificación de Elección de los Sitios Web](https://github.com/chavow5/Grupo_6_DronsAR/#justificación-de-elección-de-los-sitios-web)
+5. [Definición de Audiencia Objetivo](https://github.com/chavow5/Grupo_6_DronsAR/#definición-de-audiencia-objetivo)
+6. [Wireframe del Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#wireframe-del-proyecto)
 
 ## Integrantes
 
@@ -129,7 +129,7 @@ Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda
 - Profesores de curriculares de las Ciencias Exactas "STEM".
 
 
-## Wireframe del proyecto 
+## Wireframe del Proyecto 
 ![wireframeweb](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/4997573e-fe09-4a63-866c-4162eb925cd2)
 
 ![wireframe](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/9660a105-95a2-4749-8a97-501200633fc9)
