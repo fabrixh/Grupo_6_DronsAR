@@ -1,0 +1,14 @@
+{
+  "name": "grupo_6_dronsar",
+  "version": "1.0.0",
+  "description": "Bienvenido al repositorio del proyecto integrador del curso Full-Stack de Digital House 2024. Desarrollo de todas las fases de un e-commerce.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
