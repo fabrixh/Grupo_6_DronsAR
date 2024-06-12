@@ -2,7 +2,7 @@
 
 Grupo N°6 de trabajo de Digital House
 
-## Tabla de Contenidos
+## 📋 Tabla de Contenidos
 
 - [Integrantes](#integrantes)
 - [Gestión del Proyecto en Trello](#gestión-del-proyecto-en-trello)
@@ -12,7 +12,7 @@ Grupo N°6 de trabajo de Digital House
 - [Wireframe del Proyecto](#wireframe-del-proyecto)
 - [Diseño](#diseño)
 
-## Integrantes
+## 👨‍👨‍👦‍👦 Integrantes
 
 - **Franco Scaglioni**: 27 años, licenciado en Diseño y Producción Multimedial, apasionado por lo audiovisual y el diseño. Se dedica al diseño gráfico y trabaja como freelance. Está aprendiendo HTML5 y CSS, y maneja la Suite de Adobe CC. [LinkedIn](https://www.linkedin.com/in/francoscaglionilr/)
   
@@ -27,16 +27,16 @@ Grupo N°6 de trabajo de Digital House
 - **Noel Oliva**: 38 años, bioingeniera, trabaja en el Hospital Central de San Luis "Ramón Carrillo" en el área de procesos y calidad. Posee conocimientos básicos en Python y dirige BONESTRESD, un emprendimiento en bioingeniería que mejora la calidad de vida y salud mediante impresión 3D. [LinkedIn](www.linkedin.com/in/maria-noel-oliva)
 
 
-## Gestión del Proyecto en Trello
+## 📅 Gestión del Proyecto en Trello
 
 Nuestro equipo utiliza Trello para organizar y gestionar el proyecto de manera eficiente. En el tablero, puedes encontrar todas las tareas, plazos y asignaciones para cada miembro del equipo.
 
 [Accede al Tablero de Proyectos en Trello](https://trello.com/invite/b/C13pJ5cq/ATTI2f6571571a9eef53d90fa6d4b184c1a06D8A0930/grupo-6)
 
 
-## Tema Elegido para el Proyecto
+## 🚀 Tema Elegido para el Proyecto
 
-Por decisión mayoritaria del grupo, se eligió la temática de drones.
+Por decisión mayoritaria del grupo, se eligió la temática de drones, en base a Alternativas consideradas.
 
 ### Nombre: 
 **DronsAR** - Drones de las alturas riojanas
@@ -68,7 +68,7 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones.
 - **Drones agrícolas**
 
 
-## Justificacion de eleccion de los sitios Web
+## 🔍 Justificacion de eleccion de los sitios Web
 Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda en base a los siguientes criterios:
 
 1. **Productos o servicios que ofrecen**: Sitios que venden drones, equipos electrónicos y tecnología.
@@ -120,7 +120,7 @@ Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda
    - **Funcionalidades**: Comparaciones de productos, reseñas, opciones de pago y envío.
 
 
-## Definición de Audiencia Objetivo
+## 🎯 Definición de Audiencia Objetivo
 
 - Profesionales en áreas de negocios, salud y otros sectores diversos.
 - Entusiastas de la tecnología en general.
@@ -129,7 +129,7 @@ Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda
 - Profesores especializados en Ciencias Exactas dentro del ámbito STEM.
 
 
-## Wireframe del Proyecto 
+## 🖋️ Wireframe del Proyecto 
 
 Utilizando la herramienta Figma, creamos una versión adaptada para dispositivos móviles y de escritorio de nuestro boceto del proyecto.
 A continuación, encontrarás las imágenes optimizadas para dispositivos de escritorio y móviles. En la carpeta de wireframes, están disponibles todas las versiones adaptadas para diferentes dispositivos o puedes acceder a ellas a través de este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/wireframes)
@@ -138,6 +138,6 @@ A continuación, encontrarás las imágenes optimizadas para dispositivos de esc
 
 ![wireframe](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/9660a105-95a2-4749-8a97-501200633fc9)
 
-## Diseño
+## 🎨 Diseño
 
 En el siguiente apartado, incluimos el logo, la paleta de colores y la tipografía de nuestro proyecto. Encuentra más detalles en la carpeta 'Design' o en este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/desing)
