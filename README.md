@@ -10,6 +10,7 @@ Grupo N°6 de trabajo de Digital House
 - [Justificación de Elección de los Sitios Web](#justificacion-de-eleccion-de-los-sitios-web)
 - [Definición de Audiencia Objetivo](#definición-de-audiencia-objetivo)
 - [Wireframe del Proyecto](#wireframe-del-proyecto)
+- [Diseño](#diseño)
 
 ## Integrantes
 
@@ -136,3 +137,7 @@ A continuación, encontrarás las imágenes optimizadas para dispositivos de esc
 ![wireframeweb](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/4997573e-fe09-4a63-866c-4162eb925cd2)
 
 ![wireframe](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/9660a105-95a2-4749-8a97-501200633fc9)
+
+## Diseño
+
+En el siguiente apartado, incluimos el logo, la paleta de colores y la tipografía de nuestro proyecto. Encuentra más detalles en la carpeta 'Design' o en este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/desing)
