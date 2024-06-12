@@ -24,7 +24,7 @@ Grupo N°6 de trabajo de Digital House
   
 - **David Ramirez**: 23 años, estudiante de tecnicatura en programación con conocimientos en React. En su tiempo libre, se dedica al BMX Racing. [LinkedIn](https://www.linkedin.com/in/david-ramirez-031015253/)
   
-- **Noel Oliva**: 38 años, bioingeniera, trabaja en el Hospital Central de San Luis "Ramón Carrillo" en el área de procesos y calidad. Posee conocimientos básicos en Python y dirige BONESTRESD, un emprendimiento en bioingeniería que mejora la calidad de vida y salud mediante impresión 3D. [LinkedIn](www.linkedin.com/in/maria-noel-oliva)
+- **Noel Oliva**: 38 años, bioingeniera, trabaja en el Hospital Central de San Luis "Ramón Carrillo" en el área de procesos y calidad. Posee conocimientos básicos en Python y dirige BONESTRESD, un emprendimiento en bioingeniería que mejora la calidad de vida y salud mediante impresión 3D. [LinkedIn](https://www.linkedin.com/in/maria-noel-oliva)
 
 
 ## 📅 Gestión del Proyecto en Trello
