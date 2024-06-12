@@ -5,7 +5,7 @@ Grupo N°6 de trabajo de Digital House
 ## Tabla de Contenidos
 
 1. [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes)
-2. [Tablero del Proyecto en Trello](https://github.com/chavow5/Grupo_6_DronsAR/#tablero-del-proyecto-en-trello)
+2. [Gestión del Proyecto en Trello](https://github.com/chavow5/Grupo_6_DronsAR/#gestion-del-proyecto-en-trello)
 3. [Tema Elegido para el Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#tema-elegido-para-el-proyecto)
 4. [Justificación de Elección de los Sitios Web](https://github.com/chavow5/Grupo_6_DronsAR/#justificacion-de-eleccion-de-los-sitios-web)
 5. [Definición de Audiencia Objetivo](https://github.com/chavow5/Grupo_6_DronsAR/#definición-de-audiencia-objetivo)
@@ -21,12 +21,12 @@ Grupo N°6 de trabajo de Digital House
   
 - **Fabricio Herrera**: 34 años, ingeniero en Sistemas, se está capacitando en FullStack e inglés. Con experiencia en redes y ciencia de datos. Le encanta viajar y ha tenido experiencias en Italia, Noruega, Dinamarca, así como en otros, ampliando su visión personal y profesional. Apasionado por el análisis de datos y la creación de contenido audiovisual como hobby. [LinkedIn](https://www.linkedin.com/in/fabrixh/)
   
-- **David Ramirez**: 23 años, estudiante de tecnicatura en programación con conocimientos en React. En su tiempo libre, se dedica al BMX Racing.[LinkedIn](https://www.linkedin.com/in/david-ramirez-031015253/)
+- **David Ramirez**: 23 años, estudiante de tecnicatura en programación con conocimientos en React. En su tiempo libre, se dedica al BMX Racing. [LinkedIn](https://www.linkedin.com/in/david-ramirez-031015253/)
   
 - **Noel Oliva**: 38 años, bioingeniera, trabaja en el Hospital Central de San Luis "Ramón Carrillo" en el área de procesos y calidad. Posee conocimientos básicos en Python y dirige BONESTRESD, un emprendimiento en bioingeniería que mejora la calidad de vida y salud mediante impresión 3D. [LinkedIn](www.linkedin.com/in/maria-noel-oliva)
 
 
-## Tablero del Proyecto en Trello
+## Gestión del Proyecto en Trello
 
 Nuestro equipo utiliza Trello para organizar y gestionar el proyecto de manera eficiente. En el tablero, puedes encontrar todas las tareas, plazos y asignaciones para cada miembro del equipo.
 
