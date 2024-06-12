@@ -1,6 +1,6 @@
 # Grupo N°6 DronsAR
 
-Grupo N°6 de trabajo de Digital House
+Bienvenido al repositorio del proyecto integrador del curso Full-Stack de Digital House 2024. Desarrollo de todas las fases de un e-commerce.
 
 ## 📋 Tabla de Contenidos
 
