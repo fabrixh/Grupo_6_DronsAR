@@ -7,7 +7,7 @@ Grupo N°6 de trabajo de Digital House
 1. [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes)
 2. [Tablero del Proyecto en Trello](https://github.com/chavow5/Grupo_6_DronsAR/#tablero-del-proyecto-en-trello)
 3. [Tema Elegido para el Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#tema-elegido-para-el-proyecto)
-4. [Justificación de Elección de los Sitios Web](https://github.com/chavow5/Grupo_6_DronsAR/#justificación-de-elección-de-los-sitios-web)
+4. [Justificación de Elección de los Sitios Web](https://github.com/chavow5/Grupo_6_DronsAR/#justificacion-de-eleccion-de-los-sitios-web)
 5. [Definición de Audiencia Objetivo](https://github.com/chavow5/Grupo_6_DronsAR/#definición-de-audiencia-objetivo)
 6. [Wireframe del Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#wireframe-del-proyecto)
 
