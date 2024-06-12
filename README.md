@@ -4,12 +4,12 @@ Grupo N°6 de trabajo de Digital House
 
 ## Tabla de Contenidos
 
-- [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes)
-- [Gestión del Proyecto en Trello](https://github.com/chavow5/Grupo_6_DronsAR/#gestión-del-proyecto-en-trello)
-- [Tema Elegido para el Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#tema-elegido-para-el-proyecto)
-- [Justificación de Elección de los Sitios Web](https://github.com/chavow5/Grupo_6_DronsAR/#justificacion-de-eleccion-de-los-sitios-web)
-- [Definición de Audiencia Objetivo](https://github.com/chavow5/Grupo_6_DronsAR/#definición-de-audiencia-objetivo)
-- [Wireframe del Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#wireframe-del-proyecto)
+- [Integrantes](#integrantes)
+- [Gestión del Proyecto en Trello](#gestión-del-proyecto-en-trello)
+- [Tema Elegido para el Proyecto](#tema-elegido-para-el-proyecto)
+- [Justificación de Elección de los Sitios Web](#justificacion-de-eleccion-de-los-sitios-web)
+- [Definición de Audiencia Objetivo](#definición-de-audiencia-objetivo)
+- [Wireframe del Proyecto](#wireframe-del-proyecto)
 
 ## Integrantes
 
@@ -119,7 +119,7 @@ Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda
    - **Funcionalidades**: Comparaciones de productos, reseñas, opciones de pago y envío.
 
 
-## Definición de Audiencia Objetivo:
+## Definición de Audiencia Objetivo
 
 - Fanáticos de las tecnologías
 - Aficionados a la fotografía y videografía
@@ -130,6 +130,10 @@ Para encontrar sitios similares a los mencionados, hemos realizado una búsqueda
 
 
 ## Wireframe del Proyecto 
+
+Utilizando la herramienta Figma, creamos una versión adaptada para dispositivos móviles y de escritorio de nuestro boceto del proyecto.
+A continuación, encontrarás las imágenes optimizadas para dispositivos de escritorio y móviles. En la carpeta de wireframes, están disponibles todas las versiones adaptadas para diferentes dispositivos o puedes acceder a ellas a través de este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/wireframes)
+
 ![wireframeweb](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/4997573e-fe09-4a63-866c-4162eb925cd2)
 
 ![wireframe](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/9660a105-95a2-4749-8a97-501200633fc9)
