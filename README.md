@@ -4,12 +4,12 @@ Grupo N°6 de trabajo de Digital House
 
 ## Tabla de Contenidos
 
-1. [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes)
-2. [Gestión del Proyecto en Trello](https://github.com/chavow5/Grupo_6_DronsAR/#gestion-del-proyecto-en-trello)
-3. [Tema Elegido para el Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#tema-elegido-para-el-proyecto)
-4. [Justificación de Elección de los Sitios Web](https://github.com/chavow5/Grupo_6_DronsAR/#justificacion-de-eleccion-de-los-sitios-web)
-5. [Definición de Audiencia Objetivo](https://github.com/chavow5/Grupo_6_DronsAR/#definición-de-audiencia-objetivo)
-6. [Wireframe del Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#wireframe-del-proyecto)
+- [Integrantes](https://github.com/chavow5/Grupo_6_DronsAR/#integrantes)
+- [Gestión del Proyecto en Trello](https://github.com/chavow5/Grupo_6_DronsAR/#gestion-del-proyecto-en-trello)
+- [Tema Elegido para el Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#tema-elegido-para-el-proyecto)
+- [Justificación de Elección de los Sitios Web](https://github.com/chavow5/Grupo_6_DronsAR/#justificacion-de-eleccion-de-los-sitios-web)
+- [Definición de Audiencia Objetivo](https://github.com/chavow5/Grupo_6_DronsAR/#definición-de-audiencia-objetivo)
+- [Wireframe del Proyecto](https://github.com/chavow5/Grupo_6_DronsAR/#wireframe-del-proyecto)
 
 ## Integrantes
 
