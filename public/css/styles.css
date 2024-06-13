@@ -103,7 +103,225 @@ header {
     font-size: 24px;
     color: #000000;
 }
-  
+
+/*estilos main*/
+
+/* Estilos para el main y section */
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-section {
+  width: 100%;
+  background-color: #f9f9f9;
+}
+
+.main-section {
+  background-color: #F5F7FA;
+  display: flex;
+  justify-content: center; /* Centra las columnas horizontalmente */
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.columna-main-1,
+.columna-main-2 {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Centra los elementos verticalmente */
+  align-items: center; /* Centra los elementos horizontalmente */
+}
+
+.columna-main-1 h1{
+  font-size: 55px;
+}
+
+.columna-main-1 p{
+  font-size: 30px;
+  color: #7A8495;
+}
+
+
+.columna-main-1 button {
+  padding: 25px;
+  border-radius: 20px;
+  background-color: #F5F7FA; 
+  color: #000; 
+  border: 1px solid #000; 
+  cursor: pointer;
+}
+
+.columna-main-1 button:hover {
+  background-color: #FFF; 
+}
+
+.columna-main-1 h1,
+.columna-main-1 p,
+.columna-main-1 button {
+  text-align: center; /* Centra el texto dentro de la columna */
+}
+
+.columna-main-2 img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Estilos para los puntos del slider */
+.puntos-slider {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.puntos-slider span {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  background-color: #888;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.puntos-slider span.active {
+  background-color: #FF0000; /* Color de fondo para el punto activo */
+}
+
+
+/* Estilos para las categorías */
+.categorias {
+  background-color: #F1F1F1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.categoria {
+  text-align: center;
+  margin: 50px;
+}
+
+.categoria img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.categoria h2 {
+  font-size: 16px;
+}
+
+/*estilos productos*/
+
+
+/* Estilos para la sección de productos */
+
+.productos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background-color: #F5F5F5;
+}
+
+.producto{
+  background-color: #fff;
+  padding: 15px;
+}
+
+/* Estilos para la tarjeta de producto destacado */
+.producto-destacado {
+  position: relative;
+  overflow: hidden;
+  width: 300px; /* Ajusta el ancho de la tarjeta */
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+}
+
+.producto-destacado img {
+  width: 100%;
+  vertical-align: middle;
+  transition: transform 0.3s;
+}
+
+.texto-superpuesto {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+  margin-top: 60px;
+  padding: 10px;
+}
+
+.texto-superpuesto h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.texto-superpuesto p {
+  margin: 10px 0;
+}
+
+.texto-superpuesto button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Estilos para la imagen de los productos */
+.producto-imagen img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* Estilos para la información de los productos */
+.producto-info {
+  text-align: center;
+}
+
+.producto-estrellas {
+  color: #FFD700;
+}
+
+.producto h2 {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.producto p {
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+.producto button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/*media queries*/  
   @media (max-width: 798px) {
     .menu-hamburguesa {
         display: block;
@@ -126,6 +344,14 @@ header {
       margin-bottom: 15px;
       margin: auto;
     }
+
+    .main-section {
+      flex-direction: column;
+  }
+
+  .columna-main-1, .columna-main-2, .categoria {
+      flex: 1;
+  }
   
     
   }
@@ -135,6 +361,10 @@ header {
     .contenedor-header, .menu-hamburguesa, .iconos-usuario-carrito{
         flex-direction: row;
     }
+
+    .columna-main-1, .columna-main-2, .categoria {
+      padding: 10px;
+  }
 
   }
   
