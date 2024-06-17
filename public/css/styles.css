@@ -221,104 +221,122 @@ main {
   font-size: 16px;
 }
 
-/*estilos productos*/
-
-
-/* Estilos para la sección de productos */
-
-.productos {
+/*estilos productos destacados*/
+.productos-destacados {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  width: 100%;
-  background-color: #F5F5F5;
+  flex-wrap: nowrap; /* Evita que los elementos se envuelvan a la siguiente línea */
+  justify-content: space-around; /* Distribuye los elementos equitativamente */
+  overflow-x: auto; /* Permite hacer scroll horizontal si los elementos no caben en la pantalla */
 }
 
-.producto{
-  background-color: #fff;
-  padding: 15px;
-}
-
-/* Estilos para la tarjeta de producto destacado */
-.producto-destacado {
-  position: relative;
-  overflow: hidden;
-  width: 300px; /* Ajusta el ancho de la tarjeta */
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+.producto {
+  flex: 0 0 calc(30% - 20px); /* Establece el ancho de cada producto */
   margin: 10px;
-}
-
-.producto-destacado img {
-  width: 100%;
-  vertical-align: middle;
-  transition: transform 0.3s;
-}
-
-.texto-superpuesto {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-  color: #fff;
-  margin-top: 60px;
   padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
 }
 
-.texto-superpuesto h2 {
-  margin: 0;
-  font-size: 24px;
+.producto img {
+  width: 100%;
+  height: auto;
 }
 
-.texto-superpuesto p {
+.producto h3 {
   margin: 10px 0;
 }
 
-.texto-superpuesto button {
-  padding: 10px 20px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-/* Estilos para la imagen de los productos */
-.producto-imagen img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 10px;
-}
-
-/* Estilos para la información de los productos */
-.producto-info {
-  text-align: center;
-}
-
-.producto-estrellas {
-  color: #FFD700;
-}
-
-.producto h2 {
-  font-size: 18px;
-  margin: 5px 0;
-}
-
 .producto p {
-  font-size: 16px;
-  margin: 5px 0;
+  font-weight: bold;
 }
 
 .producto button {
-  padding: 5px 10px;
   background-color: #007bff;
-  color: #fff;
+  color: white;
   border: none;
+  padding: 8px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.producto button:hover {
+  background-color: #0056b3;
+  color: #fff;
+}
+/*media queries productos destacados*/  
+
+@media (max-width: 768px) {
+  .productos-destacados {
+      flex-direction: column;
+  }
+
+  .producto {
+      flex: 0 0 calc(100% - 20px);
+  }
+}
+
+/*estilos nuestros productos*/
+.productos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.product {
+  width: calc(30% - 20px); /* Ancho para que quepan 3 cajas en una fila */
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .product {
+      width: calc(50% - 20px); /* Ancho para que quepan 2 cajas en una fila en dispositivos más pequeños */
+  }
+}
+
+.product img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.product h3 {
+  margin: 10px 0;
+}
+
+.product p {
+  font-weight: bold;
+}
+
+.rating {
+  color: #FFD700; /* Color amarillo para las estrellas */
+}
+
+.rating i {
+  font-size: 16px;
+}
+
+.agregar-carrito {
+  display: none;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
   border-radius: 5px;
   cursor: pointer;
+}
+
+.product:hover .agregar-carrito {
+  display: block;
 }
 
 /*media queries*/  
@@ -355,6 +373,18 @@ main {
   
     
   }
+
+  @media (max-width: 490px) {
+    .productos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product {
+        width: 90%;
+    }
+}
 
 @media (max-width: 361px) {
     
