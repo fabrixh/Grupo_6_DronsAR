@@ -1,7 +1,7 @@
 /* Estilo general del header */
 header {
     background-color: #fff;
-    padding: 15px;
+    padding: 5px;
   }
   
   /* Contenedor principal del header */
@@ -293,6 +293,8 @@ main {
   position: relative;
 }
 
+
+
 @media (max-width: 768px) {
   .product {
       width: calc(50% - 20px); /* Ancho para que quepan 2 cajas en una fila en dispositivos más pequeños */
@@ -321,7 +323,104 @@ main {
   font-size: 16px;
 }
 
+.add-to-cart {
+  background-color: #007bff;
+  color: white;
+  margin-top: 5px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
 
+/* Footer Styles */
+footer {
+  width: 100%;
+  background-color: #222934;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-radius: 5px;
+}
+
+.footer-container {
+  display: flex;
+  width: 100%;
+}
+
+.footer-columna1, .footer-columna2, .footer-columna3 {
+  flex-basis: 33%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.footer-columna1 ul, .footer-columna3 ul {
+  list-style: none; 
+  margin: 0; 
+  padding: 0; 
+}
+
+.footer-columna1 li, .footer-columna3 li {
+  display: flex; 
+  flex-direction: column;
+  margin: 20px 0; 
+}
+
+.footer-columna1 a, .footer-columna3 a {
+  text-decoration: none; 
+  color: #fff;
+  font-size: 18px; 
+}
+
+.footer-columna2 h1 {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.footer-columna2 p {
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.footer-columna2 .suscripcion {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.footer-columna2 .suscripcion input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.footer-columna2 .suscripcion i {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.footer-columna2 .redes-sociales {
+  display: flex;
+  margin-top: 20px;
+}
+
+.footer-columna2 .redes-sociales i {
+  font-size: 24px;
+  margin-right: 15px;
+  cursor: pointer;
+  color: #ccc;
+}
+
+.footer-columna2 .redes-sociales i:hover {
+  color: #401e9c;
+}
 
 
 /*media queries*/  
@@ -355,9 +454,27 @@ main {
   .columna-main-1, .columna-main-2, .categoria {
       flex: 1;
   }
-  
-    
+
+  .footer-columna1 a, .footer-columna3 a{
+    font-size: 15px;
   }
+
+  }
+
+  
+@media (max-width: 520px) {
+  .footer-container {
+    flex-direction: column; 
+  }
+
+  .footer-columna1, .footer-columna2, .footer-columna3 {
+    width: 100%; 
+  }
+
+  .footer-columna2 .suscripcion input {
+    width: 250px;
+  }
+}
 
   @media (max-width: 490px) {
     .productos {
