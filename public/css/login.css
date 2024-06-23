@@ -7,16 +7,18 @@ body {
 
 .container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
   align-items: center;
-  height: 100vh;
 }
 
+
 .login-box {
+  width: 400px;
   background-color: #fff;
-  padding: 60px 40px;
+  padding: 20px;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin: 10px;
 }
 
 .logo-login{
@@ -32,11 +34,7 @@ body {
   margin-bottom: 20px; 
 }
 
-.login-image-grande {
-  width: 650px !important; 
-  display: block; 
-  margin-bottom: 20px; 
-}
+
 
 h1 {
   text-align: center;
