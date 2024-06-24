@@ -2,7 +2,7 @@
  Descubre nuestras versiones adaptadas para dispositivos móviles, web y tablet en el wireframe del proyecto. La imagen incluye, en cada versión, de izquierda a derecha:
 
 * Home.
-* Detalle de producto.
+* Detalles de producto.
 * Carrito de compras.
 * Formulario de registro.
 * Formulario de login.
