@@ -53,7 +53,7 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones, en base 
 
 ### Objetivos:
 
-1. Crear una página web responsive.
+1. Crear una página web responsive. 
 2. Ofrecer una amplia gama de drones y accesorios.
 3. Proporcionar especificaciones técnicas detalladas de cada producto.
 4. Permitir comentarios y valoraciones de clientes sobre los productos.
