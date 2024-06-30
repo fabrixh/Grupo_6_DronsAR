@@ -86,6 +86,11 @@ header {
     padding: 10px;
     border-radius: 20px;
   }
+  .transparent-gif {
+    width: 300px; /* Ajusta el tamaño según tus necesidades */
+    height: auto; /* Mantén la proporción */
+    background-color: lightblue;  
+}
   
   /* Menú hamburguesa (escondido por defecto) */
   .menu-hamburguesa {
