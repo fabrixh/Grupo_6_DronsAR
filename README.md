@@ -9,7 +9,7 @@ Bienvenido al repositorio del proyecto integrador del curso Full-Stack de Digita
 - [Tema Elegido para el Proyecto](#-tema-elegido-para-el-proyecto)
 - [Justificación de Elección de los Sitios Web](#-justificacion-de-eleccion-de-los-sitios-web)
 - [Definición de Audiencia Objetivo](#-definición-de-audiencia-objetivo)
-- [Wireframe del Proyecto](#-wireframe-del-proyecto)
+- [Wireframe del Proyecto](#wireframe-del-proyecto)
 - [Diseño](#-diseño)
 - [Retrospectiva y Sprint 2 ](https://github.com/chavow5/Grupo_6_DronsAR/blob/main/Retro.md)🆕
 
@@ -41,7 +41,7 @@ Nuestro equipo utiliza Trello para organizar y gestionar el proyecto de manera e
 Por decisión mayoritaria del grupo, se eligió la temática de drones, en base a Alternativas consideradas.
 
 ### Nombre: 
-**DronsAR** - Drones de las alturas riojanas
+**```DronsAR```**```- Drones de las alturas riojanas```
 
 ### Logo: 
 ![DronsAR-logo](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/84ebbf64-2d7f-4307-b4c2-c923cd07bf54)
