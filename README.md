@@ -4,12 +4,12 @@ Bienvenido al repositorio del proyecto integrador del curso Full-Stack de Digita
 
 ## 📋 Tabla de Contenidos
 
-- [Integrantes](#integrantes)
-- [Gestión del Proyecto en Trello](#gestión-del-proyecto-en-trello)
-- [Tema Elegido para el Proyecto](#tema-elegido-para-el-proyecto)
-- [Justificación de Elección de los Sitios Web](#justificacion-de-eleccion-de-los-sitios-web)
-- [Definición de Audiencia Objetivo](#definición-de-audiencia-objetivo)
-- [Wireframe del Proyecto](#wireframe-del-proyecto)
+- [Integrantes](#-integrantes)
+- [Gestión del Proyecto en Trello](#-gestión-del-proyecto-en-trello)
+- [Tema Elegido para el Proyecto](#-tema-elegido-para-el-proyecto)
+- [Justificación de Elección de los Sitios Web](#-justificacion-de-eleccion-de-los-sitios-web)
+- [Definición de Audiencia Objetivo](#-definición-de-audiencia-objetivo)
+- [Wireframe del Proyecto](#-wireframe-del-proyecto)
 - [Diseño](#-diseño)
 - [Retrospectiva y Sprint 2 ](https://github.com/chavow5/Grupo_6_DronsAR/blob/main/Retro.md)🆕
 
