@@ -11,6 +11,7 @@ Bienvenido al repositorio del proyecto integrador del curso Full-Stack de Digita
 - [Definición de Audiencia Objetivo](#definición-de-audiencia-objetivo)
 - [Wireframe del Proyecto](#wireframe-del-proyecto)
 - [Diseño](#diseño)
+- [Retro.md / Sprint 2](#https://github.com/chavow5/Grupo_6_DronsAR/blob/main/Retro.md)
 
 ## 👨‍👨‍👦‍👦 Integrantes
 
