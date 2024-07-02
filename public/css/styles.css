@@ -81,7 +81,7 @@ header {
 }
 
 .fa-shopping-cart{
-  /background-color: #000;/
+  /*background-color: #000;*/
   color: #000;
   padding: 10px;
   border-radius: 20px;
@@ -104,7 +104,7 @@ header {
   color: #000000;
 }
 
-/estilos main/
+/*estilos main*/
 
 /* Estilos para el main y section */
 main {
@@ -221,7 +221,7 @@ margin-bottom: 10px;
 font-size: 16px;
 }
 
-/estilos productos destacados/
+/*estilos productos destacados*/
 .productos-destacados {
 display: flex;
 flex-wrap: nowrap; /* Evita que los elementos se envuelvan a la siguiente línea */
@@ -265,7 +265,7 @@ transition: background-color 0.3s, color 0.3s;
 background-color: #0056b3;
 color: #fff;
 }
-/media queries productos destacados/  
+/*media queries productos destacados*/  
 
 @media (max-width: 768px) {
 .productos-destacados {
@@ -277,7 +277,7 @@ color: #fff;
 }
 }
 
-/estilos nuestros productos/
+/*estilos nuestros productos*/
 .productos {
 display: flex;
 flex-wrap: wrap;
@@ -422,7 +422,7 @@ color: #ccc;
 color: #401e9c;
 }
 
-/pagina detalle-producto/
+/*pagina detalle-producto*/
 
 .pagina-encabezado {
 display: flex;
@@ -823,9 +823,9 @@ flex-direction: row;
 display: flex;
 flex-direction: column;
 }
-/fin pagina det-prod/
+/*fin pagina det-prod*/
 
-/carrito-compra/
+/*carrito-compra*/
 .contenedor-carrito-producto {
 display: flex;
 flex-direction: row;
@@ -931,7 +931,7 @@ padding: 5px 10px;
 cursor: pointer;
 }
 
-/segunda columna/
+/*segunda columna*/
 .checkout-summary {
 background-color: #F5F7FA;
 padding: 20px;
@@ -1055,7 +1055,7 @@ margin: 0 2px;
 
 /**/
 
-/media queries/  
+/*media queries*/  
 @media (max-width: 798px) {
   .menu-hamburguesa {
       display: block;
