@@ -24,14 +24,14 @@ La retrospectiva de estrella de mar del equipo DronSAR luego de haber finalizado
 <img src="https://img001.prntscr.com/file/img001/MwxO7cRWTjKf2S3NRQeYAg.png" width="800">
 
 
-## Keep Doing (Seguir Haciendo)
+## 👍 Keep Doing (Seguir Haciendo)
 - **Cooperación**: Mantener la colaboración entre los miembros del equipo.
 - **Buena organización y comunicación**: Continuar con una buena organización y comunicación efectiva.
 - **Empatía**: Seguir mostrando empatía entre los compañeros de equipo.
 - **Comunicación asertiva**: Mantener una comunicación clara y directa.
 - **Capacitar a nuestros compañeros**: Seguir capacitando a los miembros del equipo.
 
-## More Of (Hacer Más)
+## ➕ More Of (Hacer Más)
 - **Comunicación**: Incrementar la comunicación entre los miembros del equipo.
 - **Constancia**: Ser más constantes en el trabajo y en las reuniones.
 - **Feedback**: Dar y recibir más retroalimentación.
@@ -39,17 +39,17 @@ La retrospectiva de estrella de mar del equipo DronSAR luego de haber finalizado
 - **Reuniones espontáneas**: Tener más reuniones espontáneas.
 - **Confianza**: Fomentar la confianza dentro del equipo.
 
-## Start Doing (Comenzar a Hacer)
+## ⏱️ Start Doing (Comenzar a Hacer)
 - **Avisar por el grupo de WhatsApp antes de hacer un commit**: Informar en el grupo de WhatsApp antes de realizar un commit.
 - **Trabajar en ramas diferentes en GitHub para tener control del proyecto principal**: Utilizar ramas diferentes en GitHub para mejor control del proyecto.
 - **Respetar horarios**: Cumplir con los horarios establecidos.
 - **Leer documentación**: Dedicar tiempo a leer la documentación.
 - **Planificación**: Empezar a planificar mejor las tareas y actividades.
 
-## Stop Doing (Dejar de Hacer)
+## 🚫 Stop Doing (Dejar de Hacer)
 - **Trabajar solo sin informar la tarea**: Evitar trabajar de forma aislada sin comunicar las tareas realizadas.
 - **Comentarios negativos**: Parar de hacer comentarios negativos.
 
-## Less Of (Hacer Menos)
+## 🎈 Less Of (Hacer Menos)
 - **No pedir ayuda**: Evitar la falta de solicitud de ayuda cuando se necesita.
 - **Distracciones**: Reducir las distracciones durante el trabajo.
