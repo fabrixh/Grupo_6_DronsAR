@@ -1,11 +1,10 @@
 # Sprint 2
 
-Entregable: Crear un archivo retro.md en el repositorio y anotar las principales
-conclusiones de la retro del primer sprint.
+
 
 ## Resumen de entregables
 - Archivo retro.md con el resultado de la retrospectiva.
-- Enlace al tablero de trabajo en el archivo README.md. Vinculado con trello: https://trello.com/b/C13pJ5cq/grupo-6
+- Enlace al tablero de trabajo
 - Aplicación Node.js+Express con:
   - Home (index.html)
   - Detalle del producto (productDetail.html)
@@ -53,3 +52,16 @@ La retrospectiva de estrella de mar del equipo DronSAR luego de haber finalizado
 ## 🎈 Less Of (Hacer Menos)
 - **No pedir ayuda**: Evitar la falta de solicitud de ayuda cuando se necesita.
 - **Distracciones**: Reducir las distracciones durante el trabajo.
+
+# Tablero de trabajo en Trello
+
+A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma de Trello: https://trello.com/b/C13pJ5cq/grupo-6
+
+# Aplicación Node.js+Express 
+
+## Home (index.html)
+## Detalle del producto (productDetail.html)
+## Carrito de compras (productCart.html)
+## Formulario de registro (register.html)
+## Formulario de login (login.html)
+
