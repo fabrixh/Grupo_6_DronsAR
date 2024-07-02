@@ -15,7 +15,7 @@
 
 
 
-# Retrospectiva estrella de mar - DronsAR
+# 🔄 Retrospectiva estrella de mar - DronsAR
 
 La retrospectiva de estrella de mar del equipo DronSAR luego de haber finalizado el primer sprint del proyecto se puede resumir de la siguiente manera:
 
@@ -57,11 +57,20 @@ La retrospectiva de estrella de mar del equipo DronSAR luego de haber finalizado
 
 A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma de Trello: https://trello.com/b/C13pJ5cq/grupo-6
 
-# Aplicación Node.js+Express 
+# 🚀 Aplicación Node.js+Express 
 
-## Home (index.html)
-## Detalle del producto (productDetail.html)
-## Carrito de compras (productCart.html)
-## Formulario de registro (register.html)
-## Formulario de login (login.html)
+## Home ```(index.html)```
+
+https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/index.html
+
+## Formulario de registro ```(register.html)```
+
+https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/registro.html
+
+## Formulario de login ```(login.html)```
+
+https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/login.html
+
+## Detalle del producto ```(productDetail.html)```
+## Carrito de compras ```(productCart.html)```
 
