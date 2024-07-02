@@ -1,6 +1,6 @@
 # Sprint 2
 
-
+Este documento resume la retrospectiva del equipo DronSAR después de completar el primer sprint del proyecto. En él se destacan los aspectos positivos a mantener, áreas que requieren más atención y nuevas prácticas por implementar. Además, se presentan los entregables del proyecto, incluyendo el archivo retro.md con los resultados de la retrospectiva, el enlace al tablero de trabajo en Trello y los diferentes componentes de la aplicación Node.js+Express desarrollada por el equipo, como la página de inicio, detalles del producto, carrito de compras, formulario de registro y formulario de inicio de sesión. Las consignas a cumplir estan en el siguiente [enlace](https://drive.google.com/file/d/1qmrlVIY1rKOGIr-vLzkFzX-BYrdVtRmv/view).
 
 ## Resumen de entregables
 - Archivo retro.md con el resultado de la retrospectiva.
