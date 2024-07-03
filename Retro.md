@@ -61,6 +61,41 @@ A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma d
 
 # 🚀 Aplicación Node.js+Express 
 
+## 📂 Estructura del Proyecto
+```bash
+.
+├── main/
+│   ├── desing/
+│   │── public/
+│   │   ├── CSS/
+│   │   │   ├── login.css         # Estilos para la página de inicio de sesión
+│   │   │   ├── registro.css      # Estilos para la página de registro
+│   │   │   └── styles.css        # Estilos generales de la aplicación
+│   │   └── img/
+│   │        ├── DRONSAR PROP-10.svg     # Imagen vectorial del logo DRONSAR
+│   │        ├── d1.png                   # Imagen de producto
+│   │        ├── d2.png                   # Imagen de producto
+│   │        ├── d3.png                   # Imagen de producto
+│   │        ├── drone2.gif               # Animación de drone
+│   │        ├── fondo.jpg                # Imagen de fondo para la aplicación
+│   │        ├── fondo2.jpg               # Otra imagen de fondo
+│   │        ├── imagen-login.png         # Imagen para la página de inicio de sesión
+│   │        └── imagen-principal.png     # Imagen principal de la aplicación
+│   └── views/
+│       ├── carrito-compra.html    # Página del carrito de compra
+│       ├── detalle-producto.html  # Página de detalle de producto
+│       ├── index.html            # Página principal de la aplicación
+│       ├── login.html            # Página de inicio de sesión
+│       └── registro.html         # Página de registro de usuario
+├── wireframes/                        # Carpeta para los wireframes del proyecto
+├── .gitignore                         # Archivo de configuración para ignorar archivos en Git
+├── README.md                          # Archivo con información básica del proyecto
+├── Retro.md                           # Archivo para registrar retrospectivas del proyecto
+├── app.js                             # Archivo principal de la aplicación (JavaScript)
+├── package-lock.json                  # Archivo de bloqueo de versiones de paquetes (npm)
+└── package.json                       # Archivo de configuración de paquetes (npm)
+```
+
 ## 🏠 Home ```(index.html)```
 
   Este archivo representa la página principal de la aplicación, donde los usuarios aterrizan inicialmente. Contiene la estructura y el contenido principal que se muestra al cargar la aplicación.
