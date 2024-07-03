@@ -135,5 +135,7 @@ A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma d
 
   Aquí se encuentra la interfaz donde los usuarios gestionan los productos seleccionados para la compra. Permite agregar, modificar o eliminar elementos del carrito antes de proceder con la compra final.
 
-  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/carrito-compra.html
+  <a href="https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/carrito-compra.html">
+  <img src="https://img001.prntscr.com/file/img001/6yVSObBMR8mcrgjgSxzdGw.png" width="700">
+  </a>
 
