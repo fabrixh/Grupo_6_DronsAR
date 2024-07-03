@@ -104,23 +104,26 @@ A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma d
 
 <br> <!-- Salto de línea -->
 
-## 👉 Formulario de registro ```(register.html)```
+## 👉 Formulario de registro ```(registro.html)```
 
   Aquí se encuentra el formulario que los usuarios utilizan para registrarse en la aplicación. Incluye campos y validaciones necesarios para capturar la información de los nuevos usuarios.
 
-  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/registro.html
-
+<a href="https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/registro.html" >
+<img src="https://img001.prntscr.com/file/img001/VxlYD9xNRc6WByD8jhOv_Q.png" width="400">
+</a>
 <br> <!-- Salto de línea -->
 
 ## 🔐 Formulario de login ```(login.html)```
 
   Este formulario permite a los usuarios iniciar sesión en la aplicación. Es crucial para la autenticación y seguridad de los usuarios al acceder a sus cuentas personales.
 
-  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/login.html
+<a href="https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/login.html" style="display: block; text-align: center;">
+  <img src="https://img001.prntscr.com/file/img001/a03TXDPhTFaD-hGDiRUWug.png" width="400">
+</a>  
 
 <br> <!-- Salto de línea -->
 
-## 🔍 Detalle del producto ```(productDetail.html)```
+## 🔍 Detalle del producto ```(detalle-producto.html)```
 
   La página de detalle del producto muestra información detallada sobre un producto específico. Esto incluye características, precios y opciones de compra, proporcionando una vista profunda para los usuarios interesados en un artículo en particular.
 
@@ -128,7 +131,7 @@ A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma d
 
 <br> <!-- Salto de línea -->
 
-## 🛒 Carrito de compras ```(productCart.html)```
+## 🛒 Carrito de compras ```(carrito-compra.html)```
 
   Aquí se encuentra la interfaz donde los usuarios gestionan los productos seleccionados para la compra. Permite agregar, modificar o eliminar elementos del carrito antes de proceder con la compra final.
 
