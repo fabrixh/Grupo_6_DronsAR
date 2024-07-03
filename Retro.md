@@ -53,37 +53,47 @@ La retrospectiva de estrella de mar del equipo DronSAR luego de haber finalizado
 - **No pedir ayuda**: Evitar la falta de solicitud de ayuda cuando se necesita.
 - **Distracciones**: Reducir las distracciones durante el trabajo.
 
-# Tablero de trabajo en Trello
+# 📅 Tablero de trabajo en Trello
 
 A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma de Trello: https://trello.com/b/C13pJ5cq/grupo-6
 
+<br> <!-- Salto de línea -->
+
 # 🚀 Aplicación Node.js+Express 
 
-- ### Home ```(index.html)```
+## 🏠 Home ```(index.html)```
 
   Este archivo representa la página principal de la aplicación, donde los usuarios aterrizan inicialmente. Contiene la estructura y el contenido principal que se muestra al cargar la aplicación.
 
   https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/index.html
 
-- ### Formulario de registro ```(register.html)```
+<br> <!-- Salto de línea -->
+
+## 👉 Formulario de registro ```(register.html)```
 
   Aquí se encuentra el formulario que los usuarios utilizan para registrarse en la aplicación. Incluye campos y validaciones necesarios para capturar la información de los nuevos usuarios.
 
   https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/registro.html
 
-- ### Formulario de login ```(login.html)```
+<br> <!-- Salto de línea -->
+
+## 🔐 Formulario de login ```(login.html)```
 
   Este formulario permite a los usuarios iniciar sesión en la aplicación. Es crucial para la autenticación y seguridad de los usuarios al acceder a sus cuentas personales.
 
   https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/login.html
 
-- ### Detalle del producto ```(productDetail.html)```
+<br> <!-- Salto de línea -->
+
+## 🔍 Detalle del producto ```(productDetail.html)```
 
   La página de detalle del producto muestra información detallada sobre un producto específico. Esto incluye características, precios y opciones de compra, proporcionando una vista profunda para los usuarios interesados en un artículo en particular.
 
   https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/detalle-producto.html
 
-- ### Carrito de compras ```(productCart.html)```
+<br> <!-- Salto de línea -->
+
+## 🛒 Carrito de compras ```(productCart.html)```
 
   Aquí se encuentra la interfaz donde los usuarios gestionan los productos seleccionados para la compra. Permite agregar, modificar o eliminar elementos del carrito antes de proceder con la compra final.
 
