@@ -59,18 +59,33 @@ A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma d
 
 # 🚀 Aplicación Node.js+Express 
 
-## Home ```(index.html)```
+- ### Home ```(index.html)```
 
-https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/index.html
+  Este archivo representa la página principal de la aplicación, donde los usuarios aterrizan inicialmente. Contiene la estructura y el contenido principal que se muestra al cargar la aplicación.
 
-## Formulario de registro ```(register.html)```
+  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/index.html
 
-https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/registro.html
+- ### Formulario de registro ```(register.html)```
 
-## Formulario de login ```(login.html)```
+  Aquí se encuentra el formulario que los usuarios utilizan para registrarse en la aplicación. Incluye campos y validaciones necesarios para capturar la información de los nuevos usuarios.
 
-https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/login.html
+  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/registro.html
 
-## Detalle del producto ```(productDetail.html)```
-## Carrito de compras ```(productCart.html)```
+- ### Formulario de login ```(login.html)```
+
+  Este formulario permite a los usuarios iniciar sesión en la aplicación. Es crucial para la autenticación y seguridad de los usuarios al acceder a sus cuentas personales.
+
+  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/login.html
+
+- ### Detalle del producto ```(productDetail.html)```
+
+  La página de detalle del producto muestra información detallada sobre un producto específico. Esto incluye características, precios y opciones de compra, proporcionando una vista profunda para los usuarios interesados en un artículo en particular.
+
+  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/detalle-producto.html
+
+- ### Carrito de compras ```(productCart.html)```
+
+  Aquí se encuentra la interfaz donde los usuarios gestionan los productos seleccionados para la compra. Permite agregar, modificar o eliminar elementos del carrito antes de proceder con la compra final.
+
+  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/carrito-compra.html
 
