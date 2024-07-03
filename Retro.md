@@ -127,7 +127,9 @@ A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma d
 
   La página de detalle del producto muestra información detallada sobre un producto específico. Esto incluye características, precios y opciones de compra, proporcionando una vista profunda para los usuarios interesados en un artículo en particular.
 
-  https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/detalle-producto.html
+<a href="https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/detalle-producto.html">
+<img src="https://img001.prntscr.com/file/img001/-_2y_NY3RU-KyviikAClJQ.png" width="700">
+</a>
 
 <br> <!-- Salto de línea -->
 
