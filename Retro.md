@@ -98,7 +98,7 @@ A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma d
 
 ## 🏠 Home ```(index.html)```
 
-  Este archivo representa la página principal de la aplicación, donde los usuarios aterrizan inicialmente. Contiene la estructura y el contenido principal que se muestra al cargar la aplicación.
+  Este archivo representa la página principal de la aplicación, donde los usuarios llegan inicialmente. Contiene la estructura y el contenido principal que se muestra al cargar la aplicación.
 
   <a href="https://github.com/chavow5/Grupo_6_DronsAR/blob/main/views/index.html">
   <img src="https://img001.prntscr.com/file/img001/IPUaKk7RRl-1cRTYUl7ixw.jpg" width="700">
