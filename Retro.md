@@ -55,7 +55,7 @@ La retrospectiva de estrella de mar del equipo DronSAR luego de haber finalizado
 
 # 📅 Tablero de trabajo en Trello
 
-A continuacion se ofrece el enlance al Tablero de trabajo usando la plataforma de Trello: https://trello.com/b/C13pJ5cq/grupo-6
+A continuacion se ofrece el enlance al Tablero de trabajo, usando la plataforma de Trello: https://trello.com/b/C13pJ5cq/grupo-6
 
 <br> <!-- Salto de línea -->
 
