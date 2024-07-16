@@ -18,7 +18,13 @@ app.get('/registro', (req, res) => {
     res.sendFile(path.join(__dirname, './views/registro.html'));
 });
 
+app.get('/detalle-producto', (req, res) => {
+    res.sendFile(path.join(__dirname, './views/detalle-producto.html'));
+});
+
+app.get('/carrito-compra', (req, res) => {
+    res.sendFile(path.join(__dirname, './views/carrito-compra.html'));
+});
+
 app.listen(3000, () => 
-    console.log("Servidor corriendo"))
-    
-    
+    console.log("Servidor corriendo"))
