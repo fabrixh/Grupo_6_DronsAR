@@ -53,7 +53,7 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones, en base 
 - Opción 3: E-commerce de productos electrónicos
 - Opción 4: E-commerce de drones
 
-### Objetivos:
+### Objetivos del proyecto:
 
 1. Crear una página web responsive. 
 2. Ofrecer una amplia gama de drones y accesorios.
