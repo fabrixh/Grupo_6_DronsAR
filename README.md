@@ -46,7 +46,7 @@ Por decisión mayoritaria del grupo, se eligió la temática de drones, en base 
 ### Logo elegido: 
 ![DronsAR-logo](https://github.com/chavow5/Grupo_6_DronsAR/assets/98863759/84ebbf64-2d7f-4307-b4c2-c923cd07bf54)
 
-### Alternativas consideradas
+### Alternativas consideradas:
 
 - Opción 1: E-commerce de servicios financieros
 - Opción 2: E-commerce de indumentaria deportiva
@@ -142,4 +142,4 @@ A continuación, encontrarás las imágenes optimizadas para dispositivos de esc
 
 ## 🎨 Diseño
 
-En el siguiente apartado, incluimos el logo, la paleta de colores y la tipografía de nuestro proyecto. Encuentra más detalles en la carpeta ```Design``` o en este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/desing)
+En el siguiente apartado, incluimos el logo, la paleta de colores y la tipografía de nuestro proyecto. Encuentra más detalles en la carpeta: ```Design``` o en este [enlace.](https://github.com/chavow5/Grupo_6_DronsAR/tree/main/desing)
