@@ -1,6 +1,8 @@
 # Grupo N°6 DronsAR
 
-Bienvenido al repositorio del proyecto integrador del curso Full-Stack de Digital House 2024. Desarrollo de todas las fases de un e-commerce.
+Bienvenido al repositorio del proyecto integrador del curso Full-Stack de Digital House 2024. Desarrollo de todas las fases de un e-commerce. 
+Accede al sitio web funcional en fases beta: https://grupo-6-dronsar.onrender.com/
+
 
 ## 📋 Tabla de Contenidos
 
